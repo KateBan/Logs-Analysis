@@ -10,9 +10,9 @@ task thePostgreSQL database is used. The focus is on building, refining
 complex queries and using them to draw business conclusions from data.
 
 ### Files
- - newsdata.sql: the data we will be working with can be downloaded form [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
- - lab.py: the Python code for the internal reporting tool
- - report.txt: sample output
+ - psql — the PostgreSQL command line program
+ - -d news — connect to the database named news which has been set up for you
+ - -f newsdata.sql — run the SQL statements in the file newsdata.sql
 
  ## Instalation
  For instructions on how to install the install the database software and
