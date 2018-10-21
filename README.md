@@ -1,7 +1,7 @@
 # Logs-Analysis
 
 
-#Bulding an Internal Reporting Tool
+# Bulding an Internal Reporting Tool
 
 ### Overview
 This lab cretes Internal reporting tool that uses information from the 'news`
