@@ -1,0 +1,18 @@
+********************** REPORT **********************
+
+The most the most popular three articles of all time
+*****************************************************
+Candidate is jerk, alleges rival Views:  338647
+Bears love berries, alleges bear Views:  253801
+Bad things gone, say good people Views:  170098
+
+The most popular article authors of all time
+*****************************************************
+Ursula La Multa Views:  507594
+Rudolf von Treppenwitz Views:  423457
+Anonymous Contributor Views:  170098
+Markoff Chaney Views:  84557
+
+Days on which more than 1% of requests lead to errors
+*****************************************************
+On 2016-07-17 there were 2.33 % errors.
