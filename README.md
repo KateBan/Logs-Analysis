@@ -32,7 +32,7 @@ Here's what this command does:
  database, connect to your database using `psql -d news`. Then you can use
  the following `CREATE VIEW` commands to create the views:
 
- **Views needed to get the results from mostPoppularArticles() function**
+ **Views needed to get the results from mostPoppularArticles() function** 
 
  - CREATE VIEW most_viewed as
  	SELECT path, COUNT(log.path) as num
